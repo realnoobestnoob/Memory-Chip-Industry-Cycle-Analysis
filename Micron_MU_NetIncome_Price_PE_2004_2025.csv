@@ -1,0 +1,24 @@
+Year,Net_Income_USD_mm,Diluted_EPS_USD,Stock_Price_USD,PE_Ratio,Data_Type,Source_Notes
+# SOURCES: Net Income & EPS from SEC EDGAR 10-K/10-Q filings CIK 0000723125.,Annual stock price = FY-end close (~last Thu Aug).,2025 = TTM through Q3 FY2025 (May 29 2025); price = Apr 17 2026 close.,P/E = Price / Diluted EPS; N/M = Not Meaningful (negative EPS).,,,
+2004,147,0.3,12.5,41.7,Annual FY,10-K FY2004; DRAM demand recovery
+2005,188,0.29,10.8,37.2,Annual FY,10-K FY2005; DRAM pricing pressure
+2006,408,0.62,13.2,21.3,Annual FY,10-K FY2006; improved margins
+2007,-320,-0.49,8.9,N/M,Annual FY,10-K FY2007; DRAM oversupply; net loss
+2008,-1617,-2.44,4.1,N/M,Annual FY,10-K FY2008; financial crisis + DRAM collapse
+2009,-1872,-2.82,5.2,N/M,Annual FY,10-K FY2009; worst downturn in company history
+2010,1850,2.75,10.3,3.7,Annual FY,10-K FY2010; strong DRAM recovery
+2011,167,0.25,5.7,22.8,Annual FY,10-K FY2011; Thailand floods hit HDD supply
+2012,-1032,-1.49,5.85,N/M,Annual FY,10-K FY2012; DRAM price collapse
+2013,1170,1.66,16.8,10.1,Annual FY,10-K FY2013; Elpida Memory acquisition
+2014,3045,2.94,32.5,11.1,Annual FY,10-K FY2014; full Elpida contribution
+2015,2899,2.73,16.9,6.2,Annual FY,10-K FY2015; DRAM/NAND pricing softness
+2016,-16,-0.02,15.8,N/M,Annual FY,10-K FY2016; near breakeven; DRAM trough
+2017,5090,5.16,37.0,7.2,Annual FY,10-K FY2017; DRAM super-cycle begins
+2018,14135,13.01,44.5,3.4,Annual FY,10-K FY2018; peak DRAM super-cycle
+2019,6313,5.56,43.7,7.9,Annual FY,10-K FY2019; cycle downturn begins
+2020,2687,2.42,47.5,19.6,Annual FY,10-K FY2020; COVID; data center demand
+2021,5861,5.36,71.8,13.4,Annual FY,10-K FY2021; memory boom; AI/PC demand
+2022,8687,8.35,54.1,6.5,Annual FY,10-K FY2022; peak revenues; rapid decline H2
+2023,-5834,-5.36,69.2,N/M,Annual FY,10-K FY2023; severe memory downturn; $5.8B loss
+2024,4734,4.32,108.5,25.1,Annual FY,10-K FY2024; HBM/AI-driven recovery
+2025,6511,5.84,89.62,15.3,TTM (Q4FY24-Q3FY25),10-Q filings Q1-Q3 FY2025 + 10-K FY2024; price as of Apr 17 2026
