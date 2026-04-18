@@ -1,2 +1,6 @@
 # Memory-Chip-Industry-Cycle-Analysis
-Micron is used as a proxy for a short analysis of the memory chip sector
+The memory semiconductor industry is known to be highly cyclical. With memory stocks booming to new highs recently, are we nearing the peak of the cycle? 
+
+This is just a short and fun project. Take it with a grain of salt :)
+
+Micron is used as a proxy
